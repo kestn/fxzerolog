@@ -4,7 +4,7 @@ go 1.23.4
 
 require (
 	github.com/rs/zerolog v1.33.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.0
 	go.uber.org/fx v1.23.0
 )
 
